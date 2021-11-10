@@ -2,6 +2,8 @@
 
 NYC Yellow Taxi Trips Percentile is a R script that return all the trips **over 0.9 percentile** in distance traveled for any of the CSV files you can find in [NYC "Yellow Taxi" Trips Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). This website contains trip data from 2009 to present, this information is available in CSV files for each month and year and this is the [Data Dictionary](https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf). Some of the information provided for each trip is Passengers count, Trip distance (milles), Pick up date, Drop off date or Total amount.
 
+**This solution allows you to calculate on taxi trips and find out the 10% that were the longest in distance.**
+
 ## Approach & Performance
 
 **¿Why R?** 
